@@ -20,7 +20,7 @@ __plugin_meta__ = PluginMetadata(
     """.strip(),
     extra={
         "author": "舰长的初号",
-        "version": "0.1",
+        "version": "1.0",
         "priority": 5,
         "plugin_type": "NORMAL",
     },
